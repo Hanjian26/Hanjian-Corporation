@@ -1,0 +1,126 @@
+body	{background-color:#f2f2f2;
+		font-family:sans-serif;
+		padding:0px 0px;
+		margin:0px;
+		height:150%;
+}
+/* The Color of Take this course on each course are still fixed 
+	Its should be color #ffffff with border #3a464b*/
+ a  		{text-decoration: none;
+		color:black;
+		font-size:25px;
+		font-family: sans-serif;
+}
+
+.top-nav 	{background-color:#3a464b;
+			width:100%;
+			height:10%;
+			float:right;
+			
+}
+
+.top-nav a	{text-decoration: none;
+			color:#ffffff;
+}
+
+.fill-top h1 	{color:#fdfdfe;
+				left:17%;
+				font-size:23px;
+				position: absolute;
+				padding-top:5px;
+			
+
+}
+
+.fill-top a	{position:relative;
+
+			left:37%;
+			color:#fdfdfe;
+			font-size:23px;
+			top:20px;
+			padding:0px 10px;
+			
+}
+
+.fill-top a:hover	{background-color:#313b3f;
+					width:50px;
+					border-radius: 20px;
+}
+
+.top-nav h1 a	{padding:10px 5px;
+				margin:3px;
+}
+
+
+
+.container a	{border: none;
+    		outline: none;
+  		  height: 40px;
+   		 background: #1c8adb;
+   		 color: #fff;
+   		 font-size: 18px;
+    		border-radius: 20px;
+}	
+
+.container	{background-color:#ffffff;
+				height:40%;
+				width:28%;
+				left:18%;
+				bottom:40%;
+				position:absolute;
+				text-align:center;
+				
+}
+
+.container2	{background-color:#ffffff;
+				height:40%;
+				width:28%;
+				left:50%;
+				bottom:40%;
+				position:absolute;
+				text-align:center;
+				
+}
+
+.container3	{background-color:#ffffff;
+				height:40%;
+				width:28%;
+				left:18%;
+				bottom:-5%;
+				position:absolute;
+				text-align:center;
+				
+}
+
+.container4	{background-color:#ffffff;
+				height:40%;
+				width:28%;
+				left:50%;
+				bottom:-5%;
+				position:absolute;
+				text-align:center;
+				
+}
+
+.fill-python img			{width:150px;
+					height:130px;
+}
+
+.fill-python h3	{font-size:20px;
+				height:20px;
+}
+
+.fill-html img	{width:200px;
+					height:150px;
+					
+}
+
+.fill-css img	{width:200px;
+					height:150px;
+					padding-top:-15px;
+}
+
+.fill-js img	{width:250px;
+					height:150px;
+					padding-top:-15px;
+}
